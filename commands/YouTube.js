@@ -36,7 +36,7 @@ france({
 
 
 
-*_Powered by ©France King._*`
+*_Powered by ©𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝐂𝚮𝚫𝐘𝚯 𝚻𝚵𝐂𝚮 𝚳𝐃._*`
        }
 
       
@@ -109,7 +109,7 @@ france({
 
 
 
-*Powered by ©France King*\n\n`
+*Powered by ©𝐌𝐄𝐇𝐌𝐄𝐃𝐈-𝐌𝐃*\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -130,7 +130,7 @@ france({
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*FLASH-MD*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*𝐌𝐄𝐇𝐌𝐄𝐃𝐈-𝐌𝐃*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
