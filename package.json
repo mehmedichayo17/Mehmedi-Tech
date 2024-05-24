@@ -1,23 +1,23 @@
 {
-  "name": "FLASH-MD",
+  "name": "MEHMEDI-MD",
   "version": "2.0.0",
   "description": "",
-  "main": "flash.js",
+  "main": "mehmedi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node flash.js",
-    "flashmd": "pm2 start flash.js --attach --max-memory-restart 490M",
+    "s": "node mehmedi.js",
+    "mehmedimd": "pm2 start mehmedi.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Flash-Md",
+    "Mehmedi-Md",
     "whatsapp",
     "whatsapp-bot",
     "franceking1"
   ],
-  "author": "France King",
+  "author": "Mehmedi Tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
