@@ -1,14 +1,14 @@
 
 /** 
 
-🇫‌🇱‌🇦‌🇸‌🇭‌-🇲‌🇩‌ 
+𝚳𝚵𝚮𝚳𝚵𝐃𝚰 𝐂𝚮𝚫𝐘𝚯 𝚻𝚵𝐂𝚮 𝚳𝐃 
 
   𝗖𝗼𝗽𝘆𝗿𝗶𝗴𝗵𝘁 (𝗖) 2024.
  𝗟𝗶𝗰𝗲𝗻𝘀𝗲𝗱 𝘂𝗻𝗱𝗲𝗿 𝘁𝗵𝗲  𝗠𝗜𝗧 𝗟𝗶𝗰𝗲𝗻𝘀𝗲;
  𝗬𝗼𝘂 𝗺𝗮𝘆 𝗻𝗼𝘁 𝘂𝘀𝗲 𝘁𝗵𝗶𝘀 𝗳𝗶𝗹𝗲 𝗲𝘅𝗰𝗲𝗽𝘁 𝗶𝗻 𝗰𝗼𝗺𝗽𝗹𝗶𝗮𝗻𝗰𝗲 𝘄𝗶𝘁𝗵 𝘁𝗵𝗲 𝗟𝗶𝗰𝗲𝗻𝘀𝗲.
  𝗜𝘁 𝗶𝘀 𝘀𝘂𝗽𝗽𝗹𝗶𝗲𝗱 𝗶𝗻 𝘁𝗵𝗲 𝗵𝗼𝗽𝗲 𝘁𝗵𝗮𝘁 𝗶𝘁 𝗺𝗮𝘆 𝗯𝗲 𝘂𝘀𝗲𝗳𝘂𝗹.
- * @𝗽𝗿𝗼𝗷𝗲𝗰𝘁_𝗻𝗮𝗺𝗲 : 𝗙𝗹𝗮𝘀𝗵 𝗠𝗗, 𝗮 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝗲𝗮𝘀𝘆 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝘂𝘀𝗲𝗿 𝗯𝗼𝘁 
- * @𝗼𝘄𝗻𝗲𝗿: 𝗙𝗿𝗮𝗻𝗰𝗲 𝗞𝗶𝗻𝗴 
+ * @𝗽𝗿𝗼𝗷𝗲𝗰𝘁_𝗻𝗮𝗺𝗲 : 𝗠𝗘𝗛𝗠𝗘𝗗𝗜 𝗠𝗗, 𝗮 𝘀𝗶𝗺𝗽𝗹𝗲 𝗮𝗻𝗱 𝗲𝗮𝘀𝘆 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝘂𝘀𝗲𝗿 𝗯𝗼𝘁 
+ * @𝗼𝘄𝗻𝗲𝗿: 𝗠𝗘𝗛𝗠𝗘𝗗𝗜 𝗧𝗘𝗖𝗛 
  
  **/
 
@@ -72,12 +72,12 @@ france({ nomCom: "developer", categorie: "General", reaction: "🐐" }, async (d
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254757835036" },
-      { nom: "᚛FranceKing᚜", numero: "254750948696" },
+      { nom: "Mehmedi Tech", numero: "254721367216" },
+      { nom: "᚛MehmediTech᚜", numero: "254723166584" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Hello 👋\n *Welcome to Flash-Md!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _France King_*\n*◇AGE: 23*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV TEAM: _CHELSEA_*\n*◇INSTAGRAM: https://instagram.com/france.king1*\n*◇Twitter: https://twitter.com/france_king1*\n\n______________________________\n\n*💙KEEP USING FLASH-MD🤍*\n\n\n_The following are my contacts_:\n:";
+    let message = "Hello 👋\n *Welcome to 𝗠𝗘𝗛𝗠𝗘𝗗𝗜 𝗠𝗗!*\n\n*✦━━◆CREATOR INFO◆━━✦*\n\n\n *◇NAME: _𝗠𝗘𝗛𝗠𝗘𝗗𝗜 𝗧𝗘𝗖𝗛_*\n*◇AGE: 24*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV TEAM: _MANCHESTER UNITED_*\n*◇INSTAGRAM: https://www.instagram.com/mehmedi_chayo?igsh=MWxuOHdhdzA0ZGpreQ==*\n*◇Twitter: https://x.com/ChayoMehmedi?t=ue-SS4mTbGV0BPatDWw68g&s=09*\n\n______________________________\n\n*🕋KEEP USING 𝗠𝗘𝗛𝗠𝗘𝗗𝗜 𝗠𝗗🕌*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -113,7 +113,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254721367216`},{quoted :ms})
 
 })
  
